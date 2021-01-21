@@ -1,4 +1,10 @@
 section.hero {
+    @media (min-width: 1400px) {
+        .container {
+            max-width: 80vw;
+        }
+    }
+
     .hero-container {
         display: grid;
         grid-template-columns: repeat(5, 1fr);
@@ -9,10 +15,8 @@ section.hero {
 
     .hero-blob {
         grid-area: 1 / 1 / 2 / 6;
-        width: 800px;
-        min-width: 50vw;
-        height: 53vw;
-        min-height: 55%;
+        width: 55vw;
+        height: 95vh;
         border-radius: 0 50% 50% 0;
         background-color: var(--lada-black);
     }
@@ -25,7 +29,8 @@ section.hero {
         pointer-events: none;
 
         .hero-main-content {
-            max-width: 500px;
+            width: 35vw;
+            min-width: 500px;
             color: var(--taican-white);
 
             .content-click-container {
