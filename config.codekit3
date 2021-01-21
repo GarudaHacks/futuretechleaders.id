@@ -417,6 +417,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/sayurbox.png": {
+		"ft": 32768,
+		"iS": 130190,
+		"oA": 0,
+		"oAP": "/build/img/companies/sayurbox.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/segari.png": {
 		"ft": 32768,
 		"iS": 101341,
@@ -625,7 +638,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 632945647.27160394
+	"lastBuiltDate": 632950080.32392204
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
