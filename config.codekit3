@@ -25,12 +25,6 @@
 		"oAP": "/build/.gitmodules",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -560,6 +554,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/tokped.png": {
+		"ft": 32768,
+		"iS": 57801,
+		"oA": 0,
+		"oAP": "/build/img/companies/tokped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/waku.png": {
 		"ft": 32768,
 		"iS": 55619,
@@ -768,7 +775,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 633188929.51704895
+	"lastBuiltDate": 633602170.65104604
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
