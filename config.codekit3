@@ -25,12 +25,6 @@
 		"oAP": "/build/.gitmodules",
 		"oF": 0
 		},
-	"/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
-		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -885,7 +879,11 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0,
+<<<<<<< HEAD
 	"lastBuiltDate": 634246349.67981601
+=======
+	"lastBuiltDate": 633602170.65104604
+>>>>>>> e0e532422951d65fe05bb41d08efda8d6893ad3e
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
