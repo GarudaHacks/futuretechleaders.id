@@ -248,6 +248,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/amartha.png": {
+		"ft": 32768,
+		"iS": 15572,
+		"oA": 0,
+		"oAP": "/build/img/companies/amartha.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/andalin.png": {
 		"ft": 32768,
 		"iS": 22941,
@@ -287,11 +300,50 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/asani.png": {
+		"ft": 32768,
+		"iS": 21428,
+		"oA": 0,
+		"oAP": "/build/img/companies/asani.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/asianparent.png": {
 		"ft": 32768,
 		"iS": 25814,
 		"oA": 0,
 		"oAP": "/build/img/companies/asianparent.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/companies/awantunai.png": {
+		"ft": 32768,
+		"iS": 48764,
+		"oA": 0,
+		"oAP": "/build/img/companies/awantunai.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/companies/bukalapak.png": {
+		"ft": 32768,
+		"iS": 49160,
+		"oA": 0,
+		"oAP": "/build/img/companies/bukalapak.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -357,6 +409,32 @@
 		"iS": 21751,
 		"oA": 0,
 		"oAP": "/build/img/companies/ged.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/companies/getplus.png": {
+		"ft": 32768,
+		"iS": 72530,
+		"oA": 0,
+		"oAP": "/build/img/companies/getplus.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/companies/goers.png": {
+		"ft": 32768,
+		"iS": 24009,
+		"oA": 0,
+		"oAP": "/build/img/companies/goers.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -482,6 +560,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/pinjammodal.png": {
+		"ft": 32768,
+		"iS": 35693,
+		"oA": 0,
+		"oAP": "/build/img/companies/pinjammodal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/ruangguru.png": {
 		"ft": 32768,
 		"iS": 65735,
@@ -521,6 +612,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/companies/sejutacita.png": {
+		"ft": 32768,
+		"iS": 65775,
+		"oA": 0,
+		"oAP": "/build/img/companies/sejutacita.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/companies/sinbad.png": {
 		"ft": 32768,
 		"iS": 37746,
@@ -552,6 +656,19 @@
 		"iS": 12652,
 		"oA": 0,
 		"oAP": "/build/img/companies/tiket.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/companies/tokped.png": {
+		"ft": 32768,
+		"iS": 57801,
+		"oA": 0,
+		"oAP": "/build/img/companies/tokped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -768,7 +885,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 633188929.51704895
+	"lastBuiltDate": 634246349.67981601
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
